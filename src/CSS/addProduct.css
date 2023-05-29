@@ -1,0 +1,27 @@
+.container {
+    background-color: azure;
+    display: block;
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+    margin-left: 100px;
+}
+.form-addProduct {
+    display: block;
+}
+.label {
+    display: block;
+}
+.input {
+    width: "100%";
+    padding: 5px;
+}
+.btn-add {
+    display: block;
+    margin-top: 20px;
+    width: 100px;
+    padding: 10px;
+    background-color: rgb(9, 9, 94);
+    color: white;
+    border-radius: 20px;
+}
